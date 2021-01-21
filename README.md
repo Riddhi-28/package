@@ -1,1 +1,1 @@
-# package
+It is a demo package creaded for educational purpose.
